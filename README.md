@@ -4,7 +4,7 @@
 
 This theme is based on [Simple Dark Theme](https://github.com/sindresorhus/alfred-simple)
 
-![Screenshot](./Screenshots/ screenshot.png)
+![Screenshot](./Screenshots/screenshot.png)
 
 ## Usage
 
