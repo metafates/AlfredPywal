@@ -2,6 +2,10 @@
 
 [pywal](https://github.com/dylanaraps/pywal) theme for [Alfred 4](https://www.alfredapp.com/)
 
+This theme is based on [Simple Dark Theme](https://github.com/sindresorhus/alfred-simple)
+
+![Screenshot](./Screenshots/ screenshot.png)
+
 ## Usage
 
 1. Open `generate-theme.sh`
